@@ -1,0 +1,10 @@
+gradio
+google-play-scraper
+textblob
+wordcloud
+matplotlib
+pandas
+numpy
+nltk
+emoji
+scikit-learn
